@@ -1,0 +1,10 @@
+.nav-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px;
+}
+.home-container {
+  background-color: #152850;
+  height: 100vh;
+}
